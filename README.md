@@ -1,5 +1,2 @@
 # WhoAmI-AI
 내가 쓴 텍스트들을 바탕으로 '나'라는 AI를 만들고, 그 AI를 통하여 나 자신을 이해하고 대화하는 도구이며 일상생활에 도움이 되는 도구AI
-git add README.md
-git commit -m "update readme"
-git push
